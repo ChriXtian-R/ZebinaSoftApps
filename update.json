@@ -1,0 +1,5 @@
+// Lista de actualizaciones JSON Array
+// Formato de lectura - "{Nombre},{version y tamano},{enlace de descarga}"
+[
+  "Convertidor de bolivares fuertes a bolivares soberanos,Version 1.0.0 Tamano 1,74 MB (1.830.912 bytes),https://raw.githubusercontent.com/ChriXtian-R/ZebinaSoftApps/master/Convertidor%20de%20Bs.F%20a%20Bs.S.exe",
+]
