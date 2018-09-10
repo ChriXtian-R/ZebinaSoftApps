@@ -1,0 +1,5 @@
+// Lista de actualizaciones JSON Array
+// Formato de lectura - "{Nombre},{version y tamano},{enlace de descarga}"
+[
+  "USB Protection,Versión 5.0.1,https://raw.githubusercontent.com/ChriXtian-R/ZebinaSoftApps/master/Convertidor%20de%20Bs.F%20a%20Bs.S.exe",
+]
