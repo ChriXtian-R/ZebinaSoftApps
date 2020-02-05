@@ -1,0 +1,24 @@
+{"version_code":453154,"content":"
+<p>WhatsApp Xen 1.00 | CrisMods</p>
+
+
+<li>[Nuevo] Nueva Base Inicial WhatsApp 2.20.17</li>
+<li>[Nuevo] Opcion para colocar nombre, estado y numero en la cabecera del inicio</li>
+<li>[Nuevo] Contador de mensajes en grupos</li>
+<li>[Nuevo] Opcion para colorear las burbujas de conversacion</li>
+<li>[Nuevo] Opcion para colorear el texto de las burbujas de conversacion</li>
+<li>[Nuevo] Stickers Animados</li>
+<li>[Nuevo] Posibilidad de fijar mas de 3 Chats</li>
+<li>[Nuevo] Opcion para deshabilitar la reproduccion automatica de los audios</li>
+<li>[Nuevo] Opcion para cambiar los sonidos al enviar y recibir mensajes</li>
+<li>[Nuevo] Opcion para cambiar el estilo del corazon dentro de una conversacion</li>
+<li>[Nuevo] Opciones de privacidad (Ocultar vista de estado, Ocultar vista de estado, Ocultar escribiendo..., Ocultar grabando audio..., Y muchas mas opciones de privacidad)</li>
+<li>[Nuevo] Opciones de personalizacion basica</li>
+<li>[Nuevo] Opcion para actualizar WhatsApp Xen</li>
+<li>[No disponible] Modo Oscuro</li>
+
+
+
+
+","url":"http://crismod.22web.org/whatsapp/lite/whatsapp.html"
+}
